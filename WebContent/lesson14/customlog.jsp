@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" %><!DOCTYPE html><html><head><meta charset="UTF-8" /><title>カスタマイズ版アクセスログ</title></head><body><jsp:include page="logrec.jsp" flush="true" />ログを記録しました。</body></html>
